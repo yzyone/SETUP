@@ -1,0 +1,15 @@
+青犀智能分析网关 EasyNVR-SGW：
+
+一、IP地址：
+192.168.101.100
+
+二、SSH:
+root
+asd.123
+
+三、安装目录：
+/userdata/easy/EasyNVR-linux-v6.0.0-22110315
+
+四、配置文件
+easynvr.ini
+
